@@ -33,3 +33,18 @@
     
     ## 10. Water Molecule Analysis
 
+
+
+
+| Model Name                   | Function             | Notebook     | Source Code                                                       | License       |
+|------------------------------|----------------------|--------------|-------------------------------------------------------------------|---------------|
+| AlphaFold/Uni-Fold           | Folding              | [Notebook](#) | [GitHub](https://github.com/dptech-corp/Uni-Fold)                | Apache 2.0    |
+| OpenFold                     | Folding              | [Notebook](#) | [GitHub](https://github.com/aqlaboratory/openfold)               | Apache 2.0    |
+| RoseTTAFold                  | Folding              | [Notebook](#) | [GitHub](https://github.com/RosettaCommons/RoseTTAFold)          | MIT License   |
+| IgFold                       | Antibody Folding     | [Notebook](#) | [GitHub](https://github.com/Graylab/IgFold)                      | JHU License   |
+| ESM-IF                       | Inverse Folding      | [Notebook](#) | [GitHub](https://github.com/facebookresearch/esm)                | MIT License   |
+| ProteinMPNN                  | Inverse Folding      | [Notebook](#) | [GitHub](https://github.com/dauparas/ProteinMPNN)                | MIT License   |
+| ProteinSeqDes                | Inverse Folding      | [Notebook](#) | [GitHub](https://github.com/facebookresearch/esm)                | MIT License   |
+| RFDiffusion                  | Design               | [Notebook](#) | [GitHub](https://github.com/RFDiffusion/RFDiffusion)             | MIT License   |
+| DiffDock                     | Ligand Docking       | [Notebook](#) | [GitHub](https://github.com/facebookresearch/diffdock)           | MIT License   |
+| NMR Prediction Tools         | NMR Spectroscopy     | [Notebook](#) | [GitHub](https://github.com/project-darwin-ca/nmr-prediction)    | MIT License   |
